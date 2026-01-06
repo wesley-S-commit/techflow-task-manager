@@ -34,4 +34,4 @@ Criar uma os Levantamentos de requisitos simulando uma entrevista com o cliente 
 -Planejamento, aba projetos com colunas a fazer, em prograsso e concluido
 -desenvolvimento issus para criação fechadas ao implementar
 -qualidade issus para testes, fechadas após validação no github actions
--historico commits estruturados com convencional commits
+-historico commits estruturados com convencional commits 
